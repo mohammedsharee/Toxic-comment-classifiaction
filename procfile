@@ -1,1 +1,1 @@
-web : sh setup.sh && streamlit run app_toxic.py
+web: sh setup.sh && streamlit run app_toxic.py
